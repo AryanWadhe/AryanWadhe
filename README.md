@@ -41,7 +41,7 @@
 ## 🔗Connect with me:
 
 <p align="left">
-<a href = "https://www.linkedin.com/in/adarsh-kumar-634740228/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://leetcode.com/u/kumar47__/"><img src="https://img.icons8.com/?size=50&id=9L16NypUzu38&format=png&color=000000"/></a>
+<a href = "https://www.linkedin.com/in/aryan-wadhe-12b2a1229/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://leetcode.com/u/aryanwadhe/"><img src="https://img.icons8.com/?size=50&id=9L16NypUzu38&format=png&color=000000"/></a>
 
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
